@@ -1,1 +1,23 @@
 /* Add CSS Styling */
+
+.odd {
+    background-color: lightpink;
+    font-family: 'Verdana', 'DejaVu sans', 'sans-serif';
+}
+
+#numbertwo {
+    color:blue;
+    font-size: 36px;
+}
+
+.adjust-size {
+    font-size: 24px;
+}
+
+#numberfour {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+

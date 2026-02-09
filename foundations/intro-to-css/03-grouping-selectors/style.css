@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+.this-one{
+    background-color: black;
+    color: white;
+
+}
+.not-this-one {
+    background-color: yellow;
+}
+
+.not-this-one,
+.this-one {
+    font-size: 28px;
+    font-family: 'Helvetica','Times New Roman', 'sans-serif';
+}
